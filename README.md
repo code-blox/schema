@@ -4,6 +4,8 @@ The schema of a block is in YAML format.
 
 It is defined by its inputs and outputs. 
 
+## Example Block
+
 ```yaml
 name: Addition
 description: Adds two arguments together and returns the result
